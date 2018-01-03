@@ -1,0 +1,25 @@
+{
+    "author": {
+        "email": "aallsbrook@clearblade.com"
+    },
+    "clouds": [
+        "google"
+    ],
+    "description": "This system shows a portal that has integrated Google Voice and Vision APIs.  Simply launch the example portal and try out the different capabilities of the Google APIs.  All results are stored in a ClearBlade collection available for your IoT System to leverage.",
+    "domains": [],
+    "gateways": [],
+    "image_url": "https://i.imgur.com/DkGLiww.png",
+    "keywords": [
+        "portal",
+        "AI"
+    ],
+    "license": "MIT",
+    "name": "Google_Voice_and_Vision_demonstration",
+    "private": false,
+    "prog_lang": [
+        "javascript"
+    ],
+    "protocols": [],
+    "things": [],
+    "version": ".1"
+}
