@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "This system shows a portal that has integrated Google Voice and Vision APIs",
+    "messaging_url": "messaging.clearblade.com:1883",
+    "name": "Google Voice and Vision demonstration",
+    "platform_url": "https://platform.clearblade.com",
+    "system_key": "f8f6e7a40bc69bb8abd99389cda201",
+    "system_secret": "F8F6E7A40B86B7FAB596EBF2B2BC01"
+}
