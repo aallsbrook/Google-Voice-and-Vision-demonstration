@@ -1,0 +1,38 @@
+{
+    "Description": "Default role that is applied to all unauthenticated users",
+    "ID": "Anonymous",
+    "Name": "Anonymous",
+    "Permissions": {
+        "CodeServices": [],
+        "Collections": [
+            {
+                "Columns": [],
+                "ID": "dcdce8a40bbebdb9e9dcfbbc93e501",
+                "Items": [],
+                "Level": 15,
+                "Name": "vision_history"
+            }
+        ],
+        "DevicesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 0
+        },
+        "Portals": [
+            {
+                "Level": 5,
+                "Name": "Voice and Vision Portal",
+                "SystemKey": "f8f6e7a40bc69bb8abd99389cda201"
+            }
+        ],
+        "Push": {
+            "Level": 0
+        },
+        "SystemServices": null,
+        "Topics": [],
+        "UsersList": {
+            "Level": 0
+        }
+    }
+}
