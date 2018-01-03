@@ -1,0 +1,479 @@
+{
+    "config": {
+        "cols": {
+            "lg": 12,
+            "md": 10,
+            "sm": 6,
+            "xs": 4,
+            "xxs": 2
+        },
+        "currentBreakpointForFlyoutWidgets": "lg",
+        "currentBreakpointForPanes": "lg",
+        "currentBreakpointsForWidgets": {
+            "97f70c5a-306f-443d-bb8f-6f09de916617": "lg"
+        },
+        "datasources": {
+            "9d43222f-3333-4084-b9d8-60251e3c76c9": {
+                "id": "9d43222f-3333-4084-b9d8-60251e3c76c9",
+                "name": "vision_history",
+                "settings": {
+                    "CALL_ON_LOAD": false,
+                    "SUPPRESS_DATASOURCE_ERRORS": false,
+                    "collection_name": "vision_history",
+                    "refresh_interval": 0
+                },
+                "type": "CB_COLLECTION"
+            }
+        },
+        "externalScripts": [],
+        "flyoutWidgetLayout": {
+            "lg": [],
+            "md": [],
+            "sm": [],
+            "xs": [],
+            "xxs": []
+        },
+        "headerWidgetLayout": {
+            "lg": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 42,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 46,
+                    "x": 185,
+                    "y": 0
+                }
+            ],
+            "md": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 36,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 39,
+                    "x": 154,
+                    "y": 0
+                }
+            ],
+            "sm": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 34,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 37,
+                    "x": 117,
+                    "y": 0
+                }
+            ],
+            "xs": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 28,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 31,
+                    "x": 71,
+                    "y": 0
+                }
+            ],
+            "xxs": [
+                {
+                    "h": 1,
+                    "i": "brand",
+                    "moved": false,
+                    "static": false,
+                    "w": 32,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "h": 1,
+                    "i": "title",
+                    "moved": false,
+                    "static": false,
+                    "w": 33,
+                    "x": 47,
+                    "y": 0
+                }
+            ]
+        },
+        "pages": {
+            "Home": {
+                "children": [],
+                "defaultValue": "",
+                "href": "",
+                "id": "Home",
+                "isChild": false,
+                "isParam": false,
+                "name": "Home",
+                "path": ""
+            }
+        },
+        "paneGridWidgetLayouts": {
+            "97f70c5a-306f-443d-bb8f-6f09de916617": {
+                "lg": [
+                    {
+                        "h": 9,
+                        "i": "752a0a47-491f-4b02-b7b9-391534a14104",
+                        "minH": 3,
+                        "w": 6,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "md": [],
+                "sm": [],
+                "xs": [],
+                "xxs": []
+            }
+        },
+        "paneLayouts": {
+            "Home": {
+                "lg": [
+                    {
+                        "h": 5,
+                        "i": "4825b911-3ab6-4d11-9c16-0452fb7a9e54",
+                        "moved": false,
+                        "static": false,
+                        "w": 6,
+                        "x": 0,
+                        "y": 0
+                    }
+                ],
+                "md": [],
+                "sm": [],
+                "xs": [],
+                "xxs": []
+            }
+        },
+        "panes": {
+            "4825b911-3ab6-4d11-9c16-0452fb7a9e54": {
+                "customPaneId": "",
+                "header": {
+                    "hide": false,
+                    "title": "Vision"
+                },
+                "hiddenBreakpoints": {},
+                "hideBorders": false,
+                "id": "4825b911-3ab6-4d11-9c16-0452fb7a9e54",
+                "pageId": "Home",
+                "tabInfo": {
+                    "activeTab": "97f70c5a-306f-443d-bb8f-6f09de916617",
+                    "tabIds": [
+                        "97f70c5a-306f-443d-bb8f-6f09de916617"
+                    ],
+                    "tabTitles": {
+                        "97f70c5a-306f-443d-bb8f-6f09de916617": "DOUBLE CLICK"
+                    },
+                    "tabbed": false
+                },
+                "themeType": "primary"
+            }
+        },
+        "savedPortalExists": true,
+        "theme": {
+            "graph": {
+                "four": "#E8E7C6",
+                "one": "#6E8592",
+                "three": "#DBA5A8",
+                "two": "#6E93A8"
+            },
+            "info": {
+                "display_name": "Standard",
+                "name": "STANDARD_THEME"
+            },
+            "items": {
+                "main": {
+                    "header": {
+                        "burgerBars": {
+                            "fontColor": "#f5f5f5"
+                        },
+                        "dropdown": {
+                            "fontColor": "#f5f5f5",
+                            "fontFamily": "Helvetica",
+                            "fontSize": 18
+                        },
+                        "styles": {
+                            "backgroundColor": "#6e8592"
+                        }
+                    },
+                    "panes": {
+                        "flyout": {
+                            "body": {
+                                "backgroundColor": "#f5f5f5"
+                            },
+                            "header": {
+                                "backgroundColor": "#6e8592"
+                            }
+                        },
+                        "primary": {
+                            "body": {
+                                "backgroundColor": "#f5f5f5"
+                            },
+                            "header": {
+                                "backgroundColor": "#6e8592"
+                            },
+                            "tabs": {
+                                "activeTabUnderlineColor": "#425864",
+                                "backgroundColor": "#9db5c2",
+                                "fontColor": "#000000"
+                            }
+                        },
+                        "secondary": {
+                            "body": {
+                                "backgroundColor": "#f5f5f5"
+                            },
+                            "header": {
+                                "backgroundColor": "#9db5c2"
+                            },
+                            "tabs": {
+                                "activeTabUnderlineColor": "#425864",
+                                "backgroundColor": "#6e8592",
+                                "fontColor": "#000000"
+                            }
+                        }
+                    },
+                    "portal": {
+                        "styles": {
+                            "backgroundColor": "#ffffff"
+                        }
+                    },
+                    "widgets": {
+                        "BAR_CHART_WIDGET_COMPONENT": {
+                            "barColors": [
+                                {
+                                    "fill": "#6E8592"
+                                },
+                                {
+                                    "fill": "#6E93A8"
+                                },
+                                {
+                                    "fill": "#DBA5A8"
+                                },
+                                {
+                                    "fill": "#E8E7C6"
+                                }
+                            ],
+                            "brushStroke": "#6e8592",
+                            "legendColor": "#000000"
+                        },
+                        "BUTTON_WIDGET_COMPONENT": {
+                            "backgroundColor": "#f5f5f5",
+                            "backgroundHoverColor": "#c2c2c2",
+                            "borderColor": "#cccccc",
+                            "fontColor": "#000000"
+                        },
+                        "GOOGLE_MAP_WIDGET_COMPONENT": {
+                            "mapTheme": ""
+                        },
+                        "LINE_CHART_WIDGET_COMPONENT": {
+                            "brushStroke": "#6e8592",
+                            "legendColor": "#000000",
+                            "lineColors": [
+                                {
+                                    "stroke": "#6E8592"
+                                },
+                                {
+                                    "stroke": "#6E93A8"
+                                },
+                                {
+                                    "stroke": "#DBA5A8"
+                                },
+                                {
+                                    "stroke": "#E8E7C6"
+                                }
+                            ]
+                        },
+                        "LIST_WIDGET_COMPONENT": {
+                            "activeFontColor": "#000000",
+                            "activeItemBackgroundColor": "#6e8592",
+                            "fontColor": "#000000",
+                            "listItemBackgroundColor": "#ffffff",
+                            "titleColor": "#000000"
+                        },
+                        "PIE_CHART_WIDGET_COMPONENT": {
+                            "cells": [
+                                {
+                                    "fill": "#6E8592"
+                                },
+                                {
+                                    "fill": "#6E93A8"
+                                },
+                                {
+                                    "fill": "#DBA5A8"
+                                },
+                                {
+                                    "fill": "#E8E7C6"
+                                }
+                            ]
+                        },
+                        "RADIAL_GAUGE_WIDGET_COMPONENT": {
+                            "backgroundColor": "#c2c2c2",
+                            "progressColor": "#6e8592"
+                        },
+                        "SPEEDOMETER_WIDGET": {
+                            "arrowColor": "#000000",
+                            "sectionColors": [
+                                {
+                                    "fill": "#6E8592"
+                                },
+                                {
+                                    "fill": "#6E93A8"
+                                },
+                                {
+                                    "fill": "#DBA5A8"
+                                },
+                                {
+                                    "fill": "#E8E7C6"
+                                }
+                            ]
+                        },
+                        "TEXT_WIDGET_COMPONENT": {
+                            "fontColor": "#000000",
+                            "fontFamily": "Helvetica",
+                            "fontSize": 18
+                        },
+                        "TOGGLE_WIDGET": {
+                            "backgroundColor": "#c2c2c2",
+                            "fontColor": "#000000",
+                            "offColor": "#ffffff",
+                            "onColor": "#6e8592"
+                        }
+                    }
+                }
+            },
+            "palette": {
+                "darkPrimary": "#c2c2c2",
+                "darkSecondary": "#425864",
+                "defaultPrimary": "#f5f5f5",
+                "defaultSecondary": "#6e8592",
+                "lightPrimary": "#ffffff",
+                "lightSecondary": "#9db5c2",
+                "primaryText": "#000000",
+                "secondaryText": "#000000"
+            }
+        },
+        "upgradesPerformed": {
+            "flyoutTitleUpgrade": true,
+            "headerBrandUpgrade": true,
+            "headerTitleUpgrade": true,
+            "widgetResizeUpgrade": true
+        },
+        "widgets": {
+            "752a0a47-491f-4b02-b7b9-391534a14104": {
+                "externalScripts": [],
+                "id": "752a0a47-491f-4b02-b7b9-391534a14104",
+                "props": {
+                    "html": {
+                        "dataType": "STATIC_DATA_TYPE",
+                        "force_data": [
+                            "STATIC_DATA_TYPE",
+                            "DYNAMIC_DATA_TYPE"
+                        ],
+                        "incoming_parser": {
+                            "isDebugOn": false,
+                            "value": "return this.datasource;"
+                        },
+                        "value": {
+                            "CSS": "#container {\n    margin: 0px auto;\n    width: 550px;\n    height: 320px;\n    border: 10px #333 solid;\n}\n#videoElement {\n    width: 530px;\n    height: 300px;\n    background-color: #666;\n}\n#imgCaptureContainer {\n    width: 530px;\n    height: 300px;\n    background-color: #666;\n    display:none;\n}",
+                            "HTML": "\u003cdiv\u003eClick to capture an image\u003c/div\u003e\n\u003cdiv id=\"container\"\u003e\n    \u003cvideo autoplay=\"true\" id=\"videoElement\" style=\"display:block\"\u003e\n    \u003c/video\u003e\n    \u003cimg name=\"bob\" id=\"imgCaptureContainer\" onclick=\"toggleDivs()\" style=\"width:100%;height:100%;display:none\" src=\"https://avatars0.githubusercontent.com/u/4351769?v=3\u0026amp;s=460\"/\u003e\n\u003c/div\u003e\n\u003cdiv\u003eFilters\u003c/div\u003e\n\u003cselect id=\"visionFilter\" class=\"form-control mr-sm-2\"\u003e\n   \u003coption value=\"TYPE_UNSPECIFIED\"\u003eUnspecified feature type\u003c/option\u003e\n  \u003coption value=\"FACE_DETECTION\"\u003eFace detection\u003c/option\u003e\n  \u003coption value=\"LANDMARK_DETECTION\"\u003eLandmark detection\u003c/option\u003e\n  \u003coption value=\"LOGO_DETECTION\"\u003eLogo detection\u003c/option\u003e\n  \u003coption value=\"LABEL_DETECTION\"\u003eLabel detection\u003c/option\u003e\n  \u003coption value=\"TEXT_DETECTION\"\u003eText OCR\u003c/option\u003e\n  \u003coption value=\"DOCUMENT_TEXT_DETECTION\"\u003eDense text document OCR\u003c/option\u003e\n  \u003coption value=\"SAFE_SEARCH_DETECTION\"\u003eNSFW check\u003c/option\u003e\n  \u003coption value=\"IMAGE_PROPERTIES\"\u003eimage properties\u003c/option\u003e\n  \u003coption value=\"CROP_HINTS\"\u003eCrop hints.\u003c/option\u003e\n  \u003coption value=\"WEB_DETECTION\"\u003eWeb detection\u003c/option\u003e\n\u003c/select\u003e\u003cbr\u003e\n\n\u003cbutton class=\"btn btn-primary\" onclick=\"sendFileToCloudVision()\"\u003eAnalyze\u003c/button\u003e\n\u003cdiv\u003eResults\u003c/div\u003e\n\u003cdiv id=\"visionResponse\"\u003e\u003c/div\u003e",
+                            "JavaScript": "//JavaScript\n\nvar video = document.querySelector('video')\n    , canvas;\n\nvar toggleDivs = function () {\n    var id = 'imgCaptureContainer';\n    var div = document.getElementById(id);\n    div.style.display = div.style.display == \"none\" ? \"block\" : \"none\";\n    id = 'videoElement';\n    div = document.getElementById(id);\n    div.style.display = div.style.display == \"none\" ? \"block\" : \"none\";\n    \n}\nfunction takeSnapshot() {\n    var img = document.getElementById('imgCaptureContainer');\n    var context;\n    var width = video.offsetWidth\n        , height = video.offsetHeight;\n    canvas = canvas || document.createElement('canvas');\n    canvas.width = width;\n    canvas.height = height;\n\n    context = canvas.getContext('2d');\n    context.drawImage(video, 0, 0, width, height);\n\n    img.src = canvas.toDataURL('image/png');\n    img.addEventListener('click',toggleDivs);\n    toggleDivs();\n\t  //var container = document.getElementById(\"captureContainer\");  \n      //container.appendChild(img);\n}\n\n// use MediaDevices API\n// docs: https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia\nif (navigator.mediaDevices) {\n    // access the web cam\n    navigator.mediaDevices.getUserMedia({video: true})\n    // permission granted:\n    .then(function(stream) {\n        video.src = window.URL.createObjectURL(stream);\n        video.addEventListener('click', takeSnapshot);\n    })\n    // permission denied:\n    .catch(function(error) {\n        document.body.textContent = 'Could not access the camera. Error: ' + error.name;\n    });\n}\n\nvar getImage = function() {\n    return   $('#imgCaptureContainer').attr('src') ;\n\n};\n\nvar imageContent = {};\nvar annotationType = \"\";\nwindow.sendFileToCloudVision = function(type) {\n    var content = getImage();\n    imageContent = content;\n    content = content.replace('data:image/png;base64,', '');\n\t//var type = $('#fileform [name=type]').val();\n//\tvar type =\"FACE_DETECTION\";\n    var filter = document.getElementById(\"visionFilter\");\n    if (typeof type == \"undefined\"){\n\t    var type = filter.options[filter.selectedIndex].value;    \n    }\n    annotationType =type;\n    var type1 = \"LABEL_DETECTION\";\n\tvar type2 = \"LOGO_DETECTION\";\n    var type3 = \"TYPE_UNSPECIFIED\";\n\tvar type4 = \"TEXT_DETECTION\";  // \"IMAGE_PROPERTIES\";\n    var type5 = \"FACE_DETECTION\";\n\tvar type6 = \"LANDMARK_DETECTION\";\n\tvar type7 = \"LOGO_DETECTION\";\n    var type8 = \"WEB_DETECTION\";\n  // Strip out the file prefix when you convert to json.\n\tvar request = {\n\t\trequests: [{\n\t\t\timage: {\n\t\t\tcontent: content\n\t\t\t},\n\t\t\tfeatures: [{\n\t\t\t\ttype: type,\n\t\t\t\tmaxResults: 20\n        \t}]\n\t\t}]\n\t};\n\t$('#visionResponse').text('Loading...');\n\t$.ajax({\n        type: \"POST\",\n        url: CV_URL,\n\t\tdata: JSON.stringify(request),\n\t\tcontentType: 'application/json'\n    \t}\n \t).fail(function (jqXHR, textStatus, errorThrown) {\n       $('#visionResponse').text('ERRORS: ' + textStatus + ' ' + errorThrown);\n\t}).done(displayJSON);\n};\n\n\nfunction displayJSON (data) {\n    var d = new Date();\n    var n = d.toISOString();\n    datasources[\"vision_history\"].sendData(\n        {\n\t        \"method\": \"INSERT\",\n\t        \"data\": {\n\t            \"image_binary\": imageContent,\n\t\t        \"annotation_type\": annotationType,\n\t\t        \"annotation\":JSON.stringify(data),\n\t\t        \"time_stamp\": n\n\t        },\n    \t    \"options\": {\n        \t\t\"schema\": [{\n        \t\t\t\"type\": \"string\",\n        \t\t\t\"name\": \"image_binary\"\n        \t\t}, {\n        \t\t\t\"type\": \"string\",\n        \t\t\t\"name\": \"annotation\"\n        \t\t}, {\n        \t\t\t\"type\": \"string\",\n        \t\t\t\"name\": \"annotation_type\"\n        \t\t}, {\n        \t\t\t\"type\": \"timestamp\",\n        \t\t\t\"name\": \"time_stamp\"\n        \t\t}]\n\t        }\n        }\n    );\n    var contents = JSON.stringify(data, null, 4);\n\t$('#visionResponse').text(contents);\n};\n\nfunction checkInResult (data) {\n    datasources[\"VisionResults\"].sendData(data);\n    \n}\n\nwindow.apiKey = 'AIzaSyB6sLBgfsv6hrd-w5mqJC7N3bgUFYxF7q8';\nvar CV_URL = 'https://vision.googleapis.com/v1/images:annotate?key=' + window.apiKey;\n\nif (this.datasource == \"check in\" || this.datasource == \"checking\"){\n    debugger;\n    getAnImage();\n    readCheckInImage();\n    \n}\n\n    "
+                        }
+                    }
+                },
+                "tab": "97f70c5a-306f-443d-bb8f-6f09de916617",
+                "type": "HTML_WIDGET_COMPONENT"
+            },
+            "brand": {
+                "externalScripts": [],
+                "id": "brand",
+                "props": {
+                    "HAS_UNIQUE_STYLE": true,
+                    "fontColor": "#fff",
+                    "fontFamily": "Helvetica",
+                    "fontSize": 18,
+                    "textContent": {
+                        "dataType": "STATIC_DATA_TYPE",
+                        "value": "ClearBlade"
+                    }
+                },
+                "tab": "HEADER",
+                "type": "TEXT_WIDGET_COMPONENT"
+            },
+            "flyoutTitle": {
+                "externalScripts": [],
+                "id": "flyoutTitle",
+                "props": {
+                    "HAS_UNIQUE_STYLE": true,
+                    "fontColor": "#fff",
+                    "fontFamily": "Helvetica",
+                    "fontSize": 30,
+                    "textContent": {
+                        "dataType": "CALCULATED_DATA_TYPE",
+                        "value": "return portalTitle"
+                    }
+                },
+                "type": "TEXT_WIDGET_COMPONENT"
+            },
+            "title": {
+                "externalScripts": [],
+                "id": "title",
+                "props": {
+                    "HAS_UNIQUE_STYLE": true,
+                    "fontColor": "#fff",
+                    "fontFamily": "Trebuchet MS",
+                    "fontSize": 18,
+                    "textContent": {
+                        "dataType": "CALCULATED_DATA_TYPE",
+                        "value": "return portalTitle"
+                    }
+                },
+                "tab": "HEADER",
+                "type": "TEXT_WIDGET_COMPONENT"
+            }
+        }
+    },
+    "description": null,
+    "last_updated": "03 Jan 18 20:43 UTC",
+    "name": "Voice and Vision Portal",
+    "system_key": "f8f6e7a40bc69bb8abd99389cda201",
+    "type": "v2"
+}
